@@ -47,7 +47,7 @@ setup(
     url='https://www.ensembl.org',
     download_url='https://github.com/Ensembl/ensembl-py',
     license="Apache License 2.0",
-    python_requires=">=3.7",
+    python_requires=">=3.8",
     entry_points={
         'pytest11': [
             'name_of_plugin = ensembl.plugins',
